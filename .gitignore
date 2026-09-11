@@ -1,0 +1,20 @@
+# Java
+*.class
+target/
+out/
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+
+# Node / React
+node_modules/
+dist/
+
+# Local secrets (DB passwords, JWT secrets)
+.env
+
+# OS
+.DS_Store
+Thumbs.db
